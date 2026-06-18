@@ -30,7 +30,7 @@
 
 ### 📫 Connect With Me
 - 📧 Email: [abhishekchattaraj4@gmail.com](mailto:abhishekchattaraj4@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/abhishekchattaraj) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-chattaraj-179a59351/?skipRedirect=true) 
 - 🐍 [GitHub](https://github.com/hackathon740)
 
 ---
